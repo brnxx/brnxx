@@ -29,6 +29,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaraujo1598/)](https://www.linkedin.com/in/brunomaraujo1598/)
+[![Linkedin](https://img.shields.io/badge/-brunomaraujo1598-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunomaraujo1598/)](https://www.linkedin.com/in/brunomaraujo1598/)
 [![Gmail Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:bruno-moonteiro@hotmail.com)](mailto:bruno-moonteiro@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/brnxx?label=follow&style=social)](https://github.com/brnxx)
