@@ -2,7 +2,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Análise e Desenvolvimento de Sistemas na PUC Minas - São Gabriel.
-- 💼 Trabalhando como Estagíario na Prefeitura Municipal de Lagoa Santa.
+- 💼 Trabalhando como Estagíario no Inter&Co
 - 🌱 Aprendendo mais sobre .NET, banco de dados relacional e API.
 
 ## Minhas Skills
